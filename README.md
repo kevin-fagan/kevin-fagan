@@ -1,3 +1,3 @@
-### Hi there, I'm Kevin 👋
+### Hey there! I'm Kevin 👋
 
-I am Software Engineer who is passionate about security and privacy. I enjoy creating things just as much as I enjoy breaking them.   
+I am a Software Engineer who is all about diving deep into the world of cybersecurity. I thrive on the challenge of not only building defenses but also understanding how to overcome them 👨‍💻
