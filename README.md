@@ -1,4 +1,4 @@
-## Hey Therem I'm Kevin! 👋
+## Hey There, I'm Kevin! 👋
 - 💻 **Passionate Software Engineer**
 - 🔐 **Cybersecurity** and **Game Development** Enthusiast
 - 🚀 **Currently developing a Discord bot** for a community of 50,000+ users
