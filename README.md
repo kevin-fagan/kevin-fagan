@@ -1,5 +1,7 @@
 ## Hey There, I'm Kevin! 👋
-- 💻 **Passionate Software Engineer**
+- 💻 **Lifelong** learner
 - 🔐 **Cybersecurity** and **Game Development** Enthusiast
-- 🚀 **Currently developing a Discord bot** for a community of 50,000+ users
 - 🤝 **Always eager to contribute** to interesting projects
+- 🚀 **Currently developing a Discord bot** with a community of 50,000+ users
+
+"Curiosity is the essence of human existence" - Gene Cernan
