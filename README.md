@@ -1,5 +1,4 @@
 ## Hey There, I'm Kevin! 👋
-- 💻 **Lifelong** learner
 - 🔐 **Cybersecurity** and **Game Development** Enthusiast
 - 🤝 **Always eager to contribute** to interesting projects
 - 🚀 **Currently developing a Discord bot** with a community of 50,000+ users
